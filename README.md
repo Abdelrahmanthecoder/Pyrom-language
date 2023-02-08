@@ -1,2 +1,2 @@
 # Pyrom-language
-A computer language built on top of python!
+A computer language built on top of Typescript!

@@ -4,7 +4,7 @@
 <p align="center">A computer language built on top of Typescript!
 </p>
 
-## Issues
+<h2 align="center">Issues</h2>
 
 You can gladly submit any issues or bugs with my project on the [issues page](https://github.com/Abdelrahmanthecoder/Pyrom-language/issues)!
 
